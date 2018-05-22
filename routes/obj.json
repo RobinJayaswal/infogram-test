@@ -1,6 +1,6 @@
 [
   [
-    ["Device","Mobile","Computer"],
+    ["Device","Mobile","Computer","Ipad"],
     ["Jan",10,25,35],
     ["Feb",5,50,65]
   ],
@@ -12,7 +12,7 @@
     ["April",40,155,10,285]
   ],
   [
-    ["Race", "White", "Non-white"],
+    ["Race", "White", "Non-white","Aggregate"],
     ["Jan",15,30,45],
     ["Feb",20,40,50]
   ],
