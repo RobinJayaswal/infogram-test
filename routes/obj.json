@@ -1,26 +1,27 @@
 [
-  [
-    ["Device","Mobile","Computer","Ipad"],
-    ["Jan",10,25,35],
-    ["Feb",5,50,65]
-  ],
-  [
-    ["Gender","Male","Female","Other", "Aggregate"],
-    ["Jan",10,50,5,85],
-    ["Feb",25,70,8,110],
-    ["March",5,35,4,90],
-    ["April",40,155,10,285]
-  ],
-  [
-    ["Race", "White", "Non-white","Aggregate"],
-    ["Jan",15,30,45],
-    ["Feb",20,40,50]
-  ],
-  [
-    ["Year","18","19","20","21"],
-    ["Jan",1,20,40,60],
-    ["Feb",5,16,100,50],
-    ["March",8,12,45,30],
-    ["April",85,100,110,20]
-  ]
-]
+	  [
+	    ["Device”,”Clicks”,”Impressions”,”Claims”],
+	    [“Mobile”,10,25,35],
+	    [“Computer”,5,50,65],
+		  [“Ipad”,15,55,80]
+	  ],
+	  [
+	    ["Gender",”Clicks”,”Impressions”,”Claims”],
+	    [“Male”,10,50,5,85],
+	    ["Female”,25,70,8,110],
+	    [“Other”,5,35,4,90],
+	    [“Aggregatel”,40,155,10,285]
+	  ],
+	  [
+	    ["Race",”Clicks”,”Impressions”,”Claims”],
+	    [“White”,15,30,45],
+	    [“Non-white”,20,40,50]
+	  ],
+	  [
+	    ["Year",”Clicks”,”Impressions”,”Claims”],
+	    [“17”,20,40,60],
+	    [“18”,16,100,50],
+	    [“19”,12,45,30],
+	    [“20",100,110,20]
+	  ]
+	]
