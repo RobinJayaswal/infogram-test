@@ -3,14 +3,14 @@
 	    ["Device”,”Clicks”,”Impressions”,”Claims”],
 	    [“Mobile”,10,25,35],
 	    [“Computer”,5,50,65],
-		  [“Ipad”,15,55,80]
+ 	    [“Ipad”,15,55,80]
 	  ],
 	  [
 	    ["Gender",”Clicks”,”Impressions”,”Claims”],
-	    [“Male”,10,50,5,85],
-	    ["Female”,25,70,8,110],
-	    [“Other”,5,35,4,90],
-	    [“Aggregatel”,40,155,10,285]
+	    [“Male”,10,50,5],
+	    ["Female”,25,70,8],
+	    [“Other”,5,35,4],
+	    [“Aggregate”,40,155,10]
 	  ],
 	  [
 	    ["Race",”Clicks”,”Impressions”,”Claims”],
