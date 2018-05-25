@@ -1,38 +1,44 @@
-[
-	  [
-	[“Reward1”],
+{
+        "type": "table",
+        "data": {
+            "sheets": [
+                {
+                    "header": [ "Reward1", "%"  ],
+                    "rows": [
+                        {
+                            "color": "FC14F9",
+                            "data": [ "Sato",  1.57 ]
+                        },
 	[“Codes Remaining“,74],
 	[“Codes Redeemed“,26],
 	[“Point Value“,1250],
 	[“‘Learn more’ Link”,”https://ben.co”],
 	[“Launch Date”,”5/14/18”],
 	[“Status”,”Live”]
-	  ],
-	  [
-	[“Reward2”],
+                    ]
+                },
+                {
+                    "header": [ "Reward2", "%" ],
+                    "rows" : [
 	[“Codes Remaining“,74],
 	[“Codes Redeemed“,26],
 	[“Point Value“,1250],
 	[“‘Learn more’ Link”,”https://ben.co”],
 	[“Launch Date”,”5/14/18”],
 	[“Status”,”Live”]
-	  ],
-	  [
-	[“Reward3”],
+                    ]
+                },
+                {
+                    "header": [ "Reward3", "%" ],
+                    "rows" : [
 	[“Codes Remaining“,74],
 	[“Codes Redeemed“,26],
 	[“Point Value“,1250],
 	[“‘Learn more’ Link”,”https://ben.co”],
 	[“Launch Date”,”5/14/18”],
 	[“Status”,”Live”]
-	  ],
-	  [
-	[“Reward4”],
-	[“Codes Remaining“,74],
-	[“Codes Redeemed“,26],
-	[“Point Value“,1250],
-	[“‘Learn more’ Link”,”https://ben.co”],
-	[“Launch Date”,”5/14/18”],
-	[“Status”,”Live”]
-	  ]
-	]
+                    ]
+                 }
+             ]
+         },
+    }
