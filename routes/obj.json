@@ -1,41 +1,40 @@
 {
-        "type": "table",
-        "data": {
-            "sheets": [
-                {
-                    "header": [ "Reward1", "%"  ],
-                    "rows": [
-                     
-	[“Codes Remaining“,74],
-	[“Codes Redeemed“,26],
-	[“Point Value“,1250],
-	[“‘Learn more’ Link”,”https://ben.co”],
-	[“Launch Date”,”5/14/18”],
-	[“Status”,”Live”]
-                    ]
-                },
-                {
-                    "header": [ "Reward2", "%" ],
-                    "rows" : [
-	[“Codes Remaining“,74],
-	[“Codes Redeemed“,26],
-	[“Point Value“,1250],
-	[“‘Learn more’ Link”,”https://ben.co”],
-	[“Launch Date”,”5/14/18”],
-	[“Status”,”Live”]
-                    ]
-                },
-                {
-                    "header": [ "Reward3", "%" ],
-                    "rows" : [
-	[“Codes Remaining“,74],
-	[“Codes Redeemed“,26],
-	[“Point Value“,1250],
-	[“‘Learn more’ Link”,”https://ben.co”],
-	[“Launch Date”,”5/14/18”],
-	[“Status”,”Live”]
-                    ]
-                 }
-             ]
-         },
-    }
+	"type": "table",
+	"data": {
+		"sheets": [{
+					"header": ["Reward1", "%"],
+					"rows": [
+
+						["Codes Remaining", 74],
+						["Codes Redeemed", 26],
+						["Point Value", 1250],
+						["‘Learn more’ Link", "https: //ben.co"],
+						["Launch Date", "5 / 14 / 18"],
+						["Status", "Live"]
+
+					},
+					{
+						"header": ["Reward2", "%"],
+						"rows": [
+							["Codes Remaining", 74],
+							["Codes Redeemed", 26],
+							["Point Value", 1250],
+							["‘Learn more’ Link", ”https: //ben.co”],
+								["Launch Date", "5 / 14 / 18"],
+								["Status", "Live"]
+							]
+						},
+						{
+							"header": ["Reward3", "%"],
+							"rows": [
+								["Codes Remaining", 74],
+								["Codes Redeemed", 26],
+								["Point Value", 1250],
+								["‘Learn more’ Link", ”https: //ben.co”],
+									["Launch Date", "5 / 14 / 18"],
+									["Status", "Live"]
+								]
+							}
+						]
+					},
+				}
