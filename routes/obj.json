@@ -1,27 +1,38 @@
 [
 	  [
-	    ["Device”,”Clicks”,”Impressions”,”Claims”],
-	    [“Mobile”,10,25,35],
-	    [“Computer”,5,50,65],
- 	    [“Ipad”,15,55,80]
+	[“Reward1”],
+	[“Codes Remaining“,74],
+	[“Codes Redeemed“,26],
+	[“Point Value“,1250],
+	[“‘Learn more’ Link”,”https://ben.co”],
+	[“Launch Date”,”5/14/18”],
+	[“Status”,”Live”]
 	  ],
 	  [
-	    ["Gender",”Clicks”,”Impressions”,”Claims”],
-	    [“Male”,10,50,5],
-	    ["Female”,25,70,8],
-	    [“Other”,5,35,4],
-	    [“Aggregate”,40,155,10]
+	[“Reward2”],
+	[“Codes Remaining“,74],
+	[“Codes Redeemed“,26],
+	[“Point Value“,1250],
+	[“‘Learn more’ Link”,”https://ben.co”],
+	[“Launch Date”,”5/14/18”],
+	[“Status”,”Live”]
 	  ],
 	  [
-	    ["Race",”Clicks”,”Impressions”,”Claims”],
-	    [“White”,15,30,45],
-	    [“Non-white”,20,40,50]
+	[“Reward3”],
+	[“Codes Remaining“,74],
+	[“Codes Redeemed“,26],
+	[“Point Value“,1250],
+	[“‘Learn more’ Link”,”https://ben.co”],
+	[“Launch Date”,”5/14/18”],
+	[“Status”,”Live”]
 	  ],
 	  [
-	    ["Year",”Clicks”,”Impressions”,”Claims”],
-	    [“17”,20,40,60],
-	    [“18”,16,100,50],
-	    [“19”,12,45,30],
-	    [“20",100,110,20]
+	[“Reward4”],
+	[“Codes Remaining“,74],
+	[“Codes Redeemed“,26],
+	[“Point Value“,1250],
+	[“‘Learn more’ Link”,”https://ben.co”],
+	[“Launch Date”,”5/14/18”],
+	[“Status”,”Live”]
 	  ]
 	]
