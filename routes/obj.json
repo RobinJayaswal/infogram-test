@@ -1,5 +1,4 @@
 {
-            "sheets": [
                 {
                     "header": [ "Membership", "United Nations", "NATO", "G7", "EU" ],
                     "rows": [
@@ -21,5 +20,4 @@
                         }
                     ]
                 }
-            ]
     }
