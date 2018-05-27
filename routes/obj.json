@@ -1,10 +1,29 @@
-[
-  [
-	  ["Codes Remaining", 98],
-	["Codes Redeemed", 2],
-	["Point Value", 2500],
-	["‘Learn more’ Link", "https: //ben.co"],
-	["Launch Date", "5 / 17 / 18"],
-	["Status", "Live"]
-  ]
-]
+{
+        "type": "chart",
+        "chart_type": "table",
+        "data": {
+            "sheets": [
+                {
+                    "header": [ "Membership", "United Nations", "NATO", "G7", "EU" ],
+                    "rows": [
+                        {
+                            "header": "China",
+                            "data": [ "x", "", "", "" ]
+                        },
+                        {
+                            "header": "France",
+                            "data": [ "x", "x", "x", "x" ]
+                        },
+                        {
+                            "header": "Germany",
+                            "data": [ "x", "x", "x", "x" ]
+                        },
+                        {
+                            "header": "USA",
+                            "data": [ "x", "x", "x", "" ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
