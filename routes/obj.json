@@ -1,22 +1,38 @@
-{
-	"sheets": [{
-		"header": ["Membership", "United Nations", "NATO", "G7", "EU"],
-		"rows": [{
-				"header": "China",
-				"data": ["x", "", "", ""]
-			},
-			{
-				"header": "France",
-				"data": ["x", "x", "x", "x"]
-			},
-			{
-				"header": "Germany",
-				"data": ["x", "x", "x", "x"]
-			},
-			{
-				"header": "USA",
-				"data": ["x", "x", "x", ""]
-			}
-		]
-	}]
-}
+[
+	[
+		["Reward1"],
+		["Codes Remaining", 74],
+		["Codes Redeemed", 26],
+		["Point Value", 1250],
+		["‘Learn more’ Link", "https://ben.co"],
+		["Launch Date", "5/14/18"],
+		["Status", "Live"]
+	],
+	[
+		["Reward2"],
+		["Codes Remaining", 74],
+		["Codes Redeemed", 26],
+		["Point Value", 1250],
+		["‘Learn more’ Link", "https://ben.co"],
+		["Launch Date", "5/14/18"],
+		["Status", "Live"]
+	],
+	[
+		["Reward3"],
+		["Codes Remaining", 74],
+		["Codes Redeemed", 26],
+		["Point Value", 1250],
+		["‘Learn more’ Link", "https://ben.co"],
+		["Launch Date", "5/14/18"],
+		["Status", "Live"]
+	],
+	[
+		["Reward4"],
+		["Codes Remaining", 74],
+		["Codes Redeemed", 26],
+		["Point Value", 1250],
+		["‘Learn more’ Link", "https://ben.co"],
+		["Launch Date", "5/14/18"],
+		["Status", "Live"]
+	]
+]
