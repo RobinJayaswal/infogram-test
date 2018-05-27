@@ -1,27 +1,27 @@
 [
 	[
-		["Reward1"],
-		["Codes Remaining", 74],
-		["Codes Redeemed", 26],
-		["Point Value", 1250],
+		["$5 Bitcoin Credit"],
+		["Codes Remaining", 98],
+		["Codes Redeemed", 2],
+		["Point Value", 1500],
 		["‘Learn more’ Link", "https://ben.co"],
 		["Launch Date", "5/14/18"],
 		["Status", "Live"]
 	],
 	[
-		["Reward2"],
+		["$10 Bitcoin Credit"],
 		["Codes Remaining", 74],
-		["Codes Redeemed", 26],
-		["Point Value", 1250],
+		["Codes Redeemed", 1],
+		["Point Value", 2500],
 		["‘Learn more’ Link", "https://ben.co"],
 		["Launch Date", "5/14/18"],
 		["Status", "Live"]
 	],
 	[
-		["Reward3"],
-		["Codes Remaining", 74],
-		["Codes Redeemed", 26],
-		["Point Value", 1250],
+		["$25 Bitcoin Credit"],
+		["Codes Remaining", 41],
+		["Codes Redeemed", 9],
+		["Point Value", 5000],
 		["‘Learn more’ Link", "https://ben.co"],
 		["Launch Date", "5/14/18"],
 		["Status", "Live"]
