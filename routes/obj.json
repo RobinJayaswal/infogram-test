@@ -1,7 +1,4 @@
 {
-        "type": "chart",
-        "chart_type": "table",
-        "data": {
             "sheets": [
                 {
                     "header": [ "Membership", "United Nations", "NATO", "G7", "EU" ],
@@ -25,5 +22,4 @@
                     ]
                 }
             ]
-        }
     }
